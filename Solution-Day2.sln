@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysDemo", "ArraysDemo\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsDemo", "CollectionsDemo\CollectionsDemo.csproj", "{48711CAD-A980-416E-97FC-824206CFE0D9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodsDemo", "MethodsDemo\MethodsDemo.csproj", "{60DF8118-4C1A-4C14-A0E1-B21BE3A59685}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{48711CAD-A980-416E-97FC-824206CFE0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48711CAD-A980-416E-97FC-824206CFE0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48711CAD-A980-416E-97FC-824206CFE0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60DF8118-4C1A-4C14-A0E1-B21BE3A59685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60DF8118-4C1A-4C14-A0E1-B21BE3A59685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60DF8118-4C1A-4C14-A0E1-B21BE3A59685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60DF8118-4C1A-4C14-A0E1-B21BE3A59685}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

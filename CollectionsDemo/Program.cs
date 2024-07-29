@@ -6,17 +6,39 @@ namespace CollectionsDemo
     {
         static void Main(string[] args)
         {
+            SortedList sortedList = new SortedList();
+            sortedList[101] = "aaa";
+            sortedList[10] = "bb";
+
            // collections
            // are structures which allows to store multiple elements
            // collections are dynamic in nature, memory is not wasted
            // collection is a term, but we use classes
            // collections have inbuilt methods to perform simple functions
             ArrayList list = new ArrayList();
+
+            // boxing happens here
             list.Add(1);
             list.Add(2);
             list.Add(3);
+            list.Add("ajay");
+            list.Add(12.6f);
+            // putting things in bag is easy
+            // problem > 
+            // object is the base type for all types
+            // boxing & unboxing happens
+            // boxing means converting value type to 
+            // reference type
 
-            foreach (int i in list)
+            //int x =10;
+            //Object obj;
+            //obj =   x; // boxing 
+
+            //float y = (float)x;  // unboxing 
+
+
+            // unboxing happens here
+            foreach (var i in list)
             {
                 Console.WriteLine(i);
             }
