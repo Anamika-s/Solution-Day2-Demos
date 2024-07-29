@@ -17,7 +17,7 @@ namespace ArraysDemo
                 { 12,33,4},
                 { 4,7,9}
             };
-           
+            Console.WriteLine(matrix[2,1]); // it takes constant time
 
             //int[,] matrix = new int[3, 3];
             //Console.WriteLine("enter numbers");

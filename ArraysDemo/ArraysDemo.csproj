@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ArraysDemo.Program3</StartupObject>
+    <StartupObject>ArraysDemo.Program5</StartupObject>
   </PropertyGroup>
 
 </Project>
