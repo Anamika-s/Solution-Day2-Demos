@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysDemo", "ArraysDemo\ArraysDemo.csproj", "{5B0434E3-1289-4060-8FB1-464686E55CE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollectionsDemo", "CollectionsDemo\CollectionsDemo.csproj", "{48711CAD-A980-416E-97FC-824206CFE0D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5B0434E3-1289-4060-8FB1-464686E55CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B0434E3-1289-4060-8FB1-464686E55CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B0434E3-1289-4060-8FB1-464686E55CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48711CAD-A980-416E-97FC-824206CFE0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48711CAD-A980-416E-97FC-824206CFE0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48711CAD-A980-416E-97FC-824206CFE0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48711CAD-A980-416E-97FC-824206CFE0D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
