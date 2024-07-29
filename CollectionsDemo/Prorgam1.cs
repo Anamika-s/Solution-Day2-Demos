@@ -33,8 +33,12 @@ namespace CollectionsDemo
             names[100] = "ajay";
 
 
-
-
+            LinkedList<int> list1 = new LinkedList<int>();
+            list1.AddFirst(1);
+            list1.AddFirst(2);
+            list1.AddLast(10);
+            
+          
 
 
 
